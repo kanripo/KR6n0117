@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:35.103351
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:33
 #+TITLE: 觀所緣緣論釋直解
 #+PROPERTY: CBETA_ID X51n0833
 #+PROPERTY: ID KR6n0117
